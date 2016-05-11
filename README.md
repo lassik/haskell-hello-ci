@@ -1,4 +1,6 @@
-# Try to build a Windows `.exe` of a Haskell program using AppVeyor #
+# Build Haskell program executables for different platforms using cloud services #
+
+## Windows `.exe` (using AppVeyor) ##
 
 <https://silky.github.io/posts/2016-01-05-build-windows-haskell-app-with-stack-and-appveyor.html>
 
