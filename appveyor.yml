@@ -13,7 +13,7 @@ build_script:
 # Suppress output from stack setup, as there is a lot and it's not necessary.
 - stack setup --no-terminal > nul
 - stack build --only-snapshot --no-terminal
-- stack --local-bin-path . install haskmas
+- stack --local-bin-path . install hello
 
 artifacts:
-- path: haskmas.exe
+- path: hello.exe
