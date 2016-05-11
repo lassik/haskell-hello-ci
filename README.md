@@ -5,3 +5,7 @@
 <https://silky.github.io/posts/2016-01-05-build-windows-haskell-app-with-stack-and-appveyor.html>
 
 <https://github.com/silky/haskmas/blob/master/appveyor.yml>
+
+## Linux executable (using Travis) ##
+
+http://docs.haskellstack.org/en/stable/travis_ci/
